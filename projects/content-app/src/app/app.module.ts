@@ -13,9 +13,6 @@ import { AppComponent } from './app.component';
     AppRoutingModule
   ],
   providers: [],
-  bootstrap: [AppComponent],
-  entryComponents:[
-
-  ]
+  bootstrap: [AppComponent]
 })
 export class AppModule { }
